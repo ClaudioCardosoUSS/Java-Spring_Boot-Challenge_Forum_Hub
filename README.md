@@ -118,6 +118,9 @@ mvn test
 Documentação swagger
 ![image](https://github.com/user-attachments/assets/54a67303-50bc-4914-a0ea-fd4eba1bc5d5)
 
+![image](https://github.com/user-attachments/assets/325c9c04-5e5b-474d-a463-c8e3007ec49e)
+
+
 
 ## 📬 Contribuindo
 
